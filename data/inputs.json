@@ -1,0 +1,11 @@
+{
+ "classificacao_sentimento": {
+   "inputs": [
+     {"input": "Produto excelente!", "esperado": "POSITIVO"},
+     {"input": "Muito ruim.", "esperado": "NEGATIVO"},
+     {"input": "Chegou rápido.", "esperado": "POSITIVO"},
+     {"input": "Não gostei.", "esperado": "NEGATIVO"},
+     {"input": "Perfeito.", "esperado": "POSITIVO"}
+   ]
+ }
+}
