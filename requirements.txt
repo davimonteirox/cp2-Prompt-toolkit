@@ -1,0 +1,5 @@
+tiktoken
+requests
+pandas
+matplotlib
+python-dotenv
